@@ -1,0 +1,12 @@
+# Core numerical/data packages
+numpy
+pandas
+openpyxl
+matplotlib
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Deep learning
+tensorflow
